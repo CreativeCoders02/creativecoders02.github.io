@@ -1,0 +1,38 @@
+.request-history-container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+    text-align: left;
+}
+
+th {
+    background-color: #007bff;
+    color: #fff;
+}
+
+td.approved {
+    color: #28a745; 
+}
+
+td.pending {
+    color: #ffc107; 
+}
+
+td.rejected {
+    color: #dc3545; 
+}

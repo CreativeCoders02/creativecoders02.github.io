@@ -1,86 +1,32 @@
-.container {
-    width: 80%;
-    margin: 0 auto;
-    padding: 20px;
-    background-color: #28a745; 
-    color: #fff; 
-    border-radius: 8px;
-    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1);
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start; 
-}
 
-h2 {
-    text-align: left; 
+
+
+.email-input,
+.password-input {
+
+    height: 78px;
+    
+    font-size: 22px;
+    color: 38LO8F; 
+    border: none;
+    border-bottom: 2px solid #000; 
     margin-bottom: 20px;
-}
-
-form {
-    width: 100%;
-}
-
-form input[type="email"],
-form input[type="password"],
-form button {
-    width: 100%;
     padding: 10px;
-    margin-bottom: 10px;
-    border: 1px solid #fff;
-    border-radius: 4px;
     box-sizing: border-box;
-    background-color: transparent; 
-    color: #fff; 
 }
 
-form button {
-    background-color: transparent; 
+.login-button {
+    height: 51px;
+    /* font-size: 24px; */
+    font-size: 24px;
+    background-color: #78FAC5; 
+    color: #FFF; 
+    border: none;
+    border-radius: 8px;
     cursor: pointer;
+    transition: background-color 0.3s ease;
 }
 
-form button:hover {
-    background-color: rgba(255, 255, 255, 0.2); 
-}
-
-.forgot-password {
-    text-align: left; 
-    margin-bottom: 10px;
-}
-
-.oauth-buttons {
-    text-align: left; 
-    margin-bottom: 20px;
-}
-
-.oauth-buttons button {
-    background-color: transparent; 
-    color: #fff; 
-    margin-right: 10px;
-}
-
-.staff-login button {
-    background-color: transparent; 
-    color: #fff; 
-}
-
-.staff-login button:hover {
-    background-color: rgba(255, 255, 255, 0.2); 
-}
-
-.image-container {
-    position: relative;
-    width: 100%;
-    height: 200px;
-    overflow: hidden;
-}
-
-.image-container img {
-    position: absolute;
-    left: -100%; 
-    top: 0;
-    transition: left 1s; 
-}
-
-.image-container img.fade-in {
-    left: 0; 
+.login-button:hover {
+    background-color: 51px; 
 }

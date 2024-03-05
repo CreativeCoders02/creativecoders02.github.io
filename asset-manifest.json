@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/creativecoders02.github.io/static/css/main.55592c47.css",
+    "main.js": "/creativecoders02.github.io/static/js/main.4234f65c.js",
+    "static/js/453.aac00d1b.chunk.js": "/creativecoders02.github.io/static/js/453.aac00d1b.chunk.js",
+    "index.html": "/creativecoders02.github.io/index.html",
+    "main.55592c47.css.map": "/creativecoders02.github.io/static/css/main.55592c47.css.map",
+    "main.4234f65c.js.map": "/creativecoders02.github.io/static/js/main.4234f65c.js.map",
+    "453.aac00d1b.chunk.js.map": "/creativecoders02.github.io/static/js/453.aac00d1b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55592c47.css",
+    "static/js/main.4234f65c.js"
+  ]
+}

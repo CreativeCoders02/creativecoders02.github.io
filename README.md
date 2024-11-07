@@ -21,7 +21,7 @@ https://github.com/user-attachments/assets/c15a2f00-ca87-427a-86e0-07f4068556d0
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sarfarajansari/viman.git
+   git clone https://github.com/CreativeCoders02/creativecoders02.github.io
    cd viman
    ```
 
